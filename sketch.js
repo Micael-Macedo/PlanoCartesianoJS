@@ -10,6 +10,7 @@ function draw() {
 
     desenharLinhas(mouse);
 
+
 }
 
 function desenharLinhas(mouse) {
